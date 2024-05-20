@@ -6,3 +6,7 @@ body{
     flex-direction: column;
     font-family: sans-serif;
 }
+
+p,h1,h3{
+    text-align:center;
+}
